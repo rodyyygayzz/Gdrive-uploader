@@ -6,7 +6,6 @@ from telegram import ParseMode
 from telegram.ext.dispatcher import run_async
 import os
 import sys
-import upload
 from creds import Creds
 from pySmartDL import SmartDL
 from pydrive.auth import GoogleAuth
